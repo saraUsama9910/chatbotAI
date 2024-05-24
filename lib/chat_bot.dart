@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
             seedColor: const Color.fromARGB(255, 58, 87, 183)),
         useMaterial3: true,
       ),
-      home: const HomePage(),
+      home: const ChatBotBody(),
     );
   }
 }
