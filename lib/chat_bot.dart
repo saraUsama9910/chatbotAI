@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:gemini_chat_app_tutorial/consts.dart';
-import 'package:gemini_chat_app_tutorial/pages/home_page.dart';
+import 'package:gemini_chat_app_tutorial/pages/chat_bot_body.dart';
 
 void main() {
   Gemini.init(
